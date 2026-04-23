@@ -22,4 +22,4 @@ print(celsius)
 #Convert the temperature to Fahrenheit using the formula: (C * 9/5) + 32
 Fahrenheit = (celsius * 9/5) + 32
 print(f"{celsius}°C is equal to {Fahrenheit}°F")
-print(f"The temerature is {celsius:.2f}°C")
+print(f"The temerature is {celsius:.2f}°C2525")
